@@ -17,7 +17,7 @@ export default function Home() {
       name: 'The Barn',
       location: 'Mountain View',
       description: 'Front drive with mountain backdrop',
-      imageUrl: 'https://images.unsplash.com/photo-1500595046891-ff5bc8d37f51?w=1200&h=800&fit=crop',
+      imageUrl: '/IMG_9911.webp',
       prompt: 'Stand on the front drive facing the mountains. Capture the view with the barn framed naturally.'
     },
     {
@@ -25,7 +25,7 @@ export default function Home() {
       name: 'The Lodge',
       location: 'Back Deck',
       description: 'Panoramic mountain views',
-      imageUrl: 'https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=1200&h=800&fit=crop',
+      imageUrl: '/IMG_9920.jpeg',
       prompt: 'Step onto the back deck facing the mountains. Take a selfie with the panoramic view behind you.'
     }
   ];
